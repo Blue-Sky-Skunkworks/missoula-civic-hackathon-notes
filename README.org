@@ -1,5 +1,9 @@
 Welcome to the notes for the Missoula Civic Hackathon team.
 
+This repository is also the home of our Wiki at
+
+    https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki
+
 These notes are writen in org-mode[1] for emacs, but, as text files,
 should be easily edited and understood from any other text editor.
 

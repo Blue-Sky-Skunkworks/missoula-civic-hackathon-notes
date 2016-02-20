@@ -2,4 +2,3 @@
 #+FILETAGS: MCH1
 
 * Missoula Civic Hackathon Tasks
-** TODO Set up a wiki for ideas
