@@ -1,0 +1,7 @@
+Welcome to the notes for the Missoula Civic Hackathon team.
+
+These notes are writen in org-mode[1] for emacs, but, as text files,
+should be easily edited and understood from any other text editor.
+
+---
+[1] http://orgmode.org/
