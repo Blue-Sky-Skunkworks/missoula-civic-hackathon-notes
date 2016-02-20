@@ -1,0 +1,6 @@
+#+TITLE: Tasks for the 2016 Missoula Civic Hackathon
+#+CATEGORY: tasks
+#+FILETAGS: MCH1
+
+* Missoula Civic Hackathon Tasks
+** TODO Set up a wiki for ideas
