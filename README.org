@@ -1,4 +1,4 @@
-Welcome to the notes for the Missoula Civic Hackathon team.
+** Welcome to the notes for the Missoula Civic Hackathon team.
 
 This repository is also the home of our Wiki at
 

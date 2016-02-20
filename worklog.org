@@ -37,4 +37,3 @@
 
 #+END_EXAMPLE
 
-* TODO set up notes repository

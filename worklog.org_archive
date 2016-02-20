@@ -22,3 +22,11 @@ Archived entries from file /home/conrad/hackathon/missoula-civic-hackathon-notes
  $ sudo gem install org-ruby
 
  #+END_EXAMPLE
+
+* DONE set up notes repository
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-02-20 Sat 16:30
+  :ARCHIVE_FILE: ~/hackathon/missoula-civic-hackathon-notes/worklog.org
+  :ARCHIVE_CATEGORY: worklog
+  :ARCHIVE_TODO: DONE
+  :END:
