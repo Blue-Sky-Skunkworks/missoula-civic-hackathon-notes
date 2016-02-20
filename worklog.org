@@ -3,6 +3,7 @@
 #+FILETAGS: MCH1
 
 * <2016-02-20 Sat 15:30>
+#+BEGIN_EXAMPLE
 
   ☵  water
   ☷  earth
@@ -34,3 +35,6 @@
       And cultivated friendly relations
       With the feudal lords.
 
+#+END_EXAMPLE
+
+* TODO set up notes repository

@@ -1,4 +1,3 @@
-#+TITLE: Tasks for the 2016 Missoula Civic Hackathon
 #+CATEGORY: tasks
 #+FILETAGS: MCH1
 
