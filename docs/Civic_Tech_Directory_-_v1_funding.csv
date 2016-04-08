@@ -846,26 +846,3 @@ Yerdle,"Steve Nave",Person,"Private Investment",2013/04/11,1800000,,"Yerdle Priv
 "Zimride, Inc.","Mayfield Fund",Financial,"Private Investment",2013/05/23,60000000,,"Zimride, Inc. Private Investment"
 "Zimride, Inc.",Overall,NA,"Private Investment",2013/05/23,60000000,60000000,"Zimride, Inc. Private Investment"
 "Zimride, Inc.","The Founders Fund",Financial,"Private Investment",2013/05/23,60000000,,"Zimride, Inc. Private Investment"
-,,,,,,,
-,,,,,,,
-,,,,,,,
-"Notes
-1 - Total funding can be calculated by summing the rows in the Investor column labeled ""Overall"".
-2 - In some instances, when the year of funding is known but not the precise date, the funding date is listed as the first day of the year.
-3 - The Investment Round - Total Funding column indicates all capital raised as part of a funding round. In many cases, the investors of the round are known but the amount of funding provided by each investor is not known. When the investment amount of individual investors is known, this is indicated in the Individual Investor Funding column.
-4 - In addition to the grant and private investments captured in analysis, the review identified the following investments: Yelp (completed IPO) - $107,250,000 on 3/1/12; AlertID (debt issuance) - $100,000 on 12/22/11; Elect Next (loan) - $750,000 on 2/24/12 from Brooklyn Bridge Ventures, Comcast Ventures and John S. and James L. Knight Foundation.
-",,,,,,,
-,,,,,,,
-,,,,,,,
-Acquisitions,,,,,,,
-"Organization Acquired","Acquiring Organization","Acquisition Date",,,,,
-"Behavio, Inc.","Google, Inc.",2013/04/12,,,,,
-"BlockChalk, Inc.","Klout, Inc.",2012/02/07,,,,,
-"Cabj Liquidation LLC","TheHuffingtonPost.com, Inc.",2011/10/03,,,,,
-"CityzenCar, SAS","Buzzcar, Inc.",2013/06/23,,,,,
-"Embark, Inc.","Apple Inc.",2013/08/22,,,,,
-"GoodGuide, Inc.","Underwriters Laboratories Inc.",2012/08/02,,,,,
-"Jumo International, Inc.","GOOD Worldwide, LLC",2011/08/17,,,,,
-"Waze Mobile Ltd.","Google Inc.",2013/06/11,,,,,
-"Wheelz, Inc.","RelayRides, Inc.",2013/05/14,,,,,
-"Votizen, Incorporated","Philotic, Inc.",2013/01/10,,,,,
